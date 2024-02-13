@@ -1,5 +1,5 @@
 /* This is portion is for the rendered react app logo styling */
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -33,15 +33,48 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
-} */
+}
 
 /* ------------------------------------------------------------ */
 /* This is portion is for the website page styling */
 
+.pagesBackground {
+  background-image: url('../images/PagesBackgroundImage.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
 
+.sayHelloTitle {
+  color: white;
 
+}
 
+.sayHelloInput {
+  margin-left: 400px;
+  height: 50px;
+  width: 300px;
 
+}
+
+.pg2SubmitBtn {
+  color: white;
+  background: black;
+  border: none;
+  margin-left: 610px;
+  margin-top: 10px;
+
+}
+
+.fontColor {
+  color: white;
+}
+
+.sayHelloResult {
+  font-size: 25px;
+  margin-top: 200px;
+}

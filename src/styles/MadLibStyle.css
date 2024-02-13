@@ -1,5 +1,5 @@
 /* This is portion is for the rendered react app logo styling */
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -33,15 +33,49 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
-} */
+}
 
 /* ------------------------------------------------------------ */
 /* This is portion is for the website page styling */
 
+.pagesBackground {
+  background-image: url('../images/PagesBackgroundImage.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
 
+.madLibAlign {
+  display: flex;
+  justify-content: center;
+}
 
+.madLibInputs {
+  margin-top: 20px;
+  height: 30px;
+  width: 400px;
+}
 
+.madLibInputs::placeholder {
+  text-align: center;
+  opacity: 0.5;
+}
+
+.pg6SubmitBtn {
+  color: white;
+  background: black;
+  border: none;
+  margin-left: 450px;
+  margin-top: 10px;
+
+}
+
+.madLibResult {
+  font-size: 25px;
+  margin-top: 25px;
+}
 
