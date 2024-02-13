@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+// Waqas Dad
+// 02/13/2024
+// Excercise name: All For One React
+// Description: Each Mini Challenge should be its own component
+All your fetches should be done in a DataService.js file
+Must look like original figma
+Hosted on Vercel or Azure
+Peer Review
+Responsiveness (mobile, tablet, desktop)
+YOU MUST HAVE DATA VALIDATION COMPLETED
+
+// Peer reviewed by: Avery Hillstrom
+// Peer comments: Review: Overall the webpage works as intended and looks well designed! There were a couple issues with a lack of data validation for numerical inputs, but those are resolved in the later sections like Odd or Even and Reverse It Numbers. The site does have a couple formatting issues in tablet mode, and there is little to no mobile responsiveness. Aside from these minor issues, it looks very good!
