@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import '../styles/Magic8BallStyle.css';
-import { magic8Ball } from '../services/DataServices';
+import { magic8Ball } from '../services/DataServices.js';
 import { useState } from 'react';
 
 

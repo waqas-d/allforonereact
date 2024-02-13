@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import '../styles/OddOrEvenStyle.css';
-import { oddOrEven } from '../services/DataServices';
+import { oddOrEven } from '../services/DataServices.js';
 import { useState } from 'react';
 
 

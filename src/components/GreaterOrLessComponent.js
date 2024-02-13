@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import '../styles/GreaterOrLessStyle.css';
-import { greaterOrLess } from '../services/DataServices';
+import { greaterOrLess } from '../services/DataServices.js';
 import { useState } from 'react';
 
 

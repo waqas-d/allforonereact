@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import '../styles/SayHelloStyle.css';
-import { sayHello } from '../services/DataServices';
+import { sayHello } from '../services/DataServices.js';
 import { useState } from 'react';
 
 export default function SayHelloComponent() {

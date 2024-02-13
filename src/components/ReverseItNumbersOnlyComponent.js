@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import '../styles/ReverseItNumbersOnlyStyle.css';
-import { reverseItNumbersOnly } from '../services/DataServices';
+import { reverseItNumbersOnly } from '../services/DataServices.js';
 import { useState } from 'react';
 
 

@@ -2,18 +2,18 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // This is importing components from the components folder
-import HomePageComponent from './components/HomePageComponent';
-import NavbarComponent from './components/NavbarComponent';
-import SayHelloComponent from './components/SayHelloComponent';
-import AddingComponent from './components/AddingComponent';
-import AskingQuestionsComponent from './components/AskingQuestionsComponent';
-import GreaterOrLessComponent from './components/GreaterOrLessComponent';
-import MadLibComponent from './components/MadLibComponent';
-import OddOrEvenComponent from './components/OddOrEvenComponent';
-import ReverseItAlphaNumericComponent from './components/ReverseItAlphaNumericComponent';
-import ReverseItNumbersOnlyComponent from './components/ReverseItNumbersOnlyComponent';
-import Magic8BallComponent from './components/Magic8BallComponent';
-import RestaurantPickerComponent from './components/RestaurantPickerComponent';
+import HomePageComponent from './components/HomePageComponent.js';
+import NavbarComponent from './components/NavbarComponent.js';
+import SayHelloComponent from './components/SayHelloComponent.js';
+import AddingComponent from './components/AddingComponen.js';
+import AskingQuestionsComponent from './components/AskingQuestionsComponent.js';
+import GreaterOrLessComponent from './components/GreaterOrLessComponent.js';
+import MadLibComponent from './components/MadlibComponent.js';
+import OddOrEvenComponent from './components/OddOrEvenComponent.js';
+import ReverseItAlphaNumericComponent from './components/ReverseItAlphaNumericComponent.js';
+import ReverseItNumbersOnlyComponent from './components/ReverseItNumbersOnlyComponent.js';
+import Magic8BallComponent from './components/Magic8BallComponent.js';
+import RestaurantPickerComponent from './components/RestaurantPickerComponent.js';
 
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
